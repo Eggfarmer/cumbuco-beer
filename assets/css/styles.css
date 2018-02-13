@@ -196,6 +196,7 @@ select {
 .header.scrolled .main-nav .nav .nav-item.nav-item-cta a.btn-cta-secondary {
   background: #ec6952;
   border-color: #ec6952;
+  color: #fff;
 }
 .header.scrolled .main-nav .nav .dropdown-menu a {
   color: #fff;
