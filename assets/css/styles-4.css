@@ -423,7 +423,7 @@ select {
   background-size: cover;
 }
 .bg-slider-wrapper .flexslider .slide.slide-3 {
-  background: #253340 url('../images/background/bg-header-3.jpg') no-repeat 50% top;
+  background: #253340 url('../images/background/bg-header-3.png') no-repeat 50% top;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -3322,7 +3322,7 @@ select {
   }
   .promo {
     height: 620px;
-    padding-top: 200px;
+    padding-top: 350px;
   }
   .promo.section .intro {
     margin-bottom: 45px;
