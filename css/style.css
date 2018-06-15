@@ -589,6 +589,12 @@ border: 2px solid #fff;
 	color:#dd4b39;
 }
 
+}
+.googlemap{
+	padding:60px 0 10px;
+	text-align: center;
+}
+
 /* Talk Business
 ---------------------------------*/
 .business-talking{
